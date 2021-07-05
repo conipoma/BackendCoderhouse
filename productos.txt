@@ -1,0 +1,74 @@
+[
+	{
+		"title": "Lápiz",
+		"price": 250.59,
+		"thumbnail": "url1",
+		"id": null
+	},
+	{
+		"title": "Goma",
+		"price": 79.99,
+		"thumbnail": "url2",
+		"id": null
+	},
+	{
+		"title": "Lápiz",
+		"price": 250.59,
+		"thumbnail": "url1",
+		"id": null
+	},
+	{
+		"title": "Goma",
+		"price": 79.99,
+		"thumbnail": "url2",
+		"id": null
+	},
+	{
+		"title": "Lápiz",
+		"price": 250.59,
+		"thumbnail": "url1",
+		"id": null
+	},
+	{
+		"title": "Goma",
+		"price": 79.99,
+		"thumbnail": "url2",
+		"id": null
+	},
+	{
+		"title": "Lápiz",
+		"price": 250.59,
+		"thumbnail": "url1",
+		"id": null
+	},
+	{
+		"title": "Goma",
+		"price": 79.99,
+		"thumbnail": "url2",
+		"id": null
+	},
+	{
+		"title": "Lápiz",
+		"price": 250.59,
+		"thumbnail": "url1",
+		"id": null
+	},
+	{
+		"title": "Goma",
+		"price": 79.99,
+		"thumbnail": "url2",
+		"id": null
+	},
+	{
+		"title": "Lápiz",
+		"price": 250.59,
+		"thumbnail": "url1",
+		"id": null
+	},
+	{
+		"title": "Goma",
+		"price": 79.99,
+		"thumbnail": "url2",
+		"id": null
+	}
+]
